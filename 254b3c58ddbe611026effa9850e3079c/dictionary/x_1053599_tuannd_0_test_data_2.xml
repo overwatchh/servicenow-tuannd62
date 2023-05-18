@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="04dc663a973ee11090117ea0f053af20" label="Test data 2" max_length="40" name="x_1053599_tuannd_0_test_data_2" type="collection">
+        <element label="Actual Duration" max_length="40" name="actual_duration" type="integer"/>
+        <element label="Actual Effort" max_length="40" name="actual_effort" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Created Date" max_length="40" name="created_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Percent Complete" max_length="40" name="percent_complete" type="integer"/>
+        <element label="Planned Duration" max_length="40" name="planned_duration" type="integer"/>
+        <element label="Planned Effort" max_length="40" name="planned_effort" type="integer"/>
+        <element label="Remaining Duration" max_length="40" name="remaining_duration" type="integer"/>
+        <element label="Remaining Effort" max_length="40" name="remaining_effort" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

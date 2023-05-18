@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 04:15:39</sys_created_on>
+        <sys_id>079c82ba97bae11090117ea0f053af1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1053599_tuannd_0_test_data_may_18th.x_1053599_tuannd_0.employee</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_security_acl display_value="x_1053599_tuannd_0_test_data_may_18th">cb9c82ba97bae11090117ea0f053af1b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_079c82ba97bae11090117ea0f053af1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 04:15:39</sys_updated_on>
+        <sys_user_role display_value="x_1053599_tuannd_0.employee" name="x_1053599_tuannd_0.employee">6d4b3c5814be61105ab30ad90d642a9b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_1053599_tuannd_0_test_data_may_18th</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 04:15:40</sys_created_on>
+        <sys_id>0f9cc2ba97bae11090117ea0f053af86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1053599_tuannd_0_test_data_may_18th</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_security_acl_0f9cc2ba97bae11090117ea0f053af86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 04:15:40</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
