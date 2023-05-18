@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <group/>
+        <name>Time off request</name>
+        <roles/>
+        <source_table>x_1053599_tuannd_0_request</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:58</sys_created_on>
+        <sys_id>ad4b3c5850be6110dda645726d62d096</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time off request</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_search_source_ad4b3c5850be6110dda645726d62d096</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:58</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad4b3c5850be6110dda645726d62d096"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Dashboard">ed4b3c5866be6110b3f60438258a2771</applet_launcher>
+        <order>10</order>
+        <section display_value="Awaiting Approval">254b3c58babe61107c76148e829b7371</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:45</sys_created_on>
+        <sys_id>a94b3c58f0be611046187368ed59e471</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_a94b3c58f0be611046187368ed59e471</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:45</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

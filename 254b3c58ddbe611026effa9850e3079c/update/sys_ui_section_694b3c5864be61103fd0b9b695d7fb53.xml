@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Activity" section_id="694b3c5864be61103fd0b9b695d7fb53" sys_domain="global" table="x_1053599_tuannd_0_request" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 03:55:39</sys_created_on>
+            <sys_id>6d4b3c58a5be6110e86f392214e0f74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1053599_tuannd_0_request" sys_domain="global" view="852c008324b021108c8bc6863d3fadcd">694b3c5864be61103fd0b9b695d7fb53</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 03:55:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 03:55:39</sys_created_on>
+            <sys_id>a54b3c5806be6110270f81e321de904f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1053599_tuannd_0_request" sys_domain="global" view="852c008324b021108c8bc6863d3fadcd">694b3c5864be61103fd0b9b695d7fb53</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 03:55:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 03:55:39</sys_created_on>
+            <sys_id>614b3c5833be61106f6de754ac69da4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="">2e571e8093407c10c64103bb3013070d</sys_ui_formatter>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1053599_tuannd_0_request" sys_domain="global" view="852c008324b021108c8bc6863d3fadcd">694b3c5864be61103fd0b9b695d7fb53</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 03:55:39</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Activity</caption>
+            <header>false</header>
+            <name>x_1053599_tuannd_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 03:55:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>694b3c5864be61103fd0b9b695d7fb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1053599_tuannd_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+            <sys_update_name>sys_ui_section_694b3c5864be61103fd0b9b695d7fb53</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 03:55:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">852c008324b021108c8bc6863d3fadcd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

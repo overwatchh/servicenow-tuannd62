@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Time Off Report by Status (Bar) Navigation">a54b3c5841be611004f8827532baa170</jump_to_screen>
+        <name>Time Off Trends</name>
+        <report display_value="Time Off Report by Status">254b3c58d8be6110a4f1f99ba812917a</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:55</sys_created_on>
+        <sys_id>654b3c58e5be61105775902f10a3c96f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Trends</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_chart_654b3c58e5be61105775902f10a3c96f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:55</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

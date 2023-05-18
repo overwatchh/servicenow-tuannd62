@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Time Off - Recent Requests">694b3c5815be6110f9dac84ffc23483e</dataset>
+        <datasource display_value="Time Off Datasource">e14b3c58a9be6110bfef26d2c354973e</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:56:01</sys_created_on>
+        <sys_id>694b3c5855be6110253681d87374113d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_694b3c5855be6110253681d87374113d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:56:01</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

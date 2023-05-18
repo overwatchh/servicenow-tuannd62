@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl/>
+        <http_method>GET</http_method>
+        <name>Get sample data</name>
+        <operation_script><![CDATA[(function process( /*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+    var tableName1 = 'x_1053599_tuannd_0_dummy_data';
+    var tableName2 = 'x_1053599_tuannd_0_test_data';
+    var result = [];
+
+    // Query on table_name1
+    var gr1 = new GlideRecord(tableName1);
+    gr1.setLimit(10);
+    gr1.query();
+    while (gr1.next()) {
+        var obj = {};
+        obj.field1 = gr1.getValue('planned_effort');
+        obj.field2 = gr1.getValue('actual_effort');
+        // Add more fields as needed
+        result.push(obj);
+    }
+
+    // Query on table_name2
+    var gr2 = new GlideRecord(tableName2);
+    gr2.setLimit(10);
+    gr2.query();
+    while (gr2.next()) {
+        var obj_2 = {};
+        obj_2.field3 = gr2.getValue('planned_effort');
+        obj_2.field4 = gr2.getValue('actual_effort');
+        // Add more fields as needed
+        result.push(obj_2);
+    }
+
+    return result;
+})(request, response);]]></operation_script>
+        <operation_uri>/api/x_1053599_tuannd_0/custom_api/sample_data</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/sample_data</relative_path>
+        <request_example/>
+        <requires_acl_authorization>false</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-12 03:31:03</sys_created_on>
+        <sys_id>c3d8cb3887362510e04665f73cbb35ff</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Get sample data</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_ws_operation_c3d8cb3887362510e04665f73cbb35ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-12 10:09:19</sys_updated_on>
+        <web_service_definition display_value="custom_api">06280b3887362510e04665f73cbb35b7</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>

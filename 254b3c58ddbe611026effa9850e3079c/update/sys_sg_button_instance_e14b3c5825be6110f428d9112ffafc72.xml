@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create time request">e14b3c5862be611095f0d4643124f273</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">a94b3c58efbe611098ccbb1e7272dc6f</icon>
+        <label>Request time off</label>
+        <location>quick_action</location>
+        <name>Request time off</name>
+        <order/>
+        <parent>6d4b3c58ccbe61102653bbf06053a371</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:53</sys_created_on>
+        <sys_id>e14b3c5825be6110f428d9112ffafc72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request time off</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e14b3c5825be6110f428d9112ffafc72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:53</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e14b3c5825be6110f428d9112ffafc72"/>
+</record_update>

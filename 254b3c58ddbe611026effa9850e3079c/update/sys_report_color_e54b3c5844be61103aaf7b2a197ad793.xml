@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#01A8F7</color>
+        <display>background-color:#01A8F7</display>
+        <name>Vivid Blue</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:36</sys_created_on>
+        <sys_id>e54b3c5844be61103aaf7b2a197ad793</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vivid Blue</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_report_color_e54b3c5844be61103aaf7b2a197ad793</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:36</sys_updated_on>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

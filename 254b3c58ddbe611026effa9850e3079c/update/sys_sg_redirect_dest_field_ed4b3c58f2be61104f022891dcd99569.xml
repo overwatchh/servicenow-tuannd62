@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Requests This Year to Time Off Requests Nav">e94b3c5853be611092b08f1d80485f70</button>
+        <button_table/>
+        <constant_value/>
+        <destination_ui_parameter display_value="URL">ad4b3c58adbe6110126068e473e45e69</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:34</sys_created_on>
+        <sys_id>ed4b3c58f2be61104f022891dcd99569</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ad4b3c58adbe6110126068e473e45e69</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_ed4b3c58f2be61104f022891dcd99569</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:34</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

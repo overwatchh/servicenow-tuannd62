@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Approved or Rejected">6d4b3c58d6be61106af06da840c0ca6c</item_parameter>
+        <screen display_value="Time Off Requests">2d4b3c58f3be61105ae4139410421e70</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:38</sys_created_on>
+        <sys_id>a54b3c586cbe6110aa8e1aea10937368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6d4b3c58d6be61106af06da840c0ca6c</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_a54b3c586cbe6110aa8e1aea10937368</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:38</sys_updated_on>
+        <ui_parameter display_value="URL">ad4b3c58adbe6110126068e473e45e69</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

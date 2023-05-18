@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Time off Request Workspace search">e54b3c5818be6110de27c2c9141c8e97</search_context_config>
+        <source display_value="Time off request">ad4b3c5850be6110dda645726d62d096</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:54</sys_created_on>
+        <sys_id>2d4b3c58f5be611029a3ecae01a3f996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_2d4b3c58f5be611029a3ecae01a3f996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:54</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

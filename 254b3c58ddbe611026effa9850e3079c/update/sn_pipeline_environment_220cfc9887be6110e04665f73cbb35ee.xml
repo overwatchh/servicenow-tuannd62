@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="INSERT_OR_UPDATE">
+        <instance_credential display_value="sn_docker_spoke.Docker">adf80925db0bd300dd14596e5e96198c</instance_credential>
+        <instance_id>Validation Failed: Failure code:401</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://dev91796.service-now.com</instance_url>
+        <is_controller>false</is_controller>
+        <name>TuanND62DevEnvironment</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:59:43</sys_created_on>
+        <sys_id>220cfc9887be6110e04665f73cbb35ee</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>TuanND62DevEnvironment</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sn_pipeline_environment_220cfc9887be6110e04665f73cbb35ee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-15 08:39:15</sys_updated_on>
+    </sn_pipeline_environment>
+</record_update>

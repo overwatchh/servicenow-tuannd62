@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>Your time off request has been submitted.</message_string>
+        <name>Request Submitted Mobile</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="Test">6d4b3c58f7be6110504d54be7c53ad7a</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:54</sys_created_on>
+        <sys_id>294b3c582ebe6110b79647f87959eb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Submitted Mobile</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_push_notif_msg_294b3c582ebe6110b79647f87959eb7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:54</sys_updated_on>
+        <table>x_1053599_tuannd_0_request</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>

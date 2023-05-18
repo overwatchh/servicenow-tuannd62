@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Time Off Requests Item Stream">e14b3c587bbe6110f47b92534db6586c</item_stream>
+        <segment display_value="Item Stream Segment">ad4b3c5821be61109f58d052a8e7f96a</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:51</sys_created_on>
+        <sys_id>e14b3c5898be6110fa8fd58d626dcc6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_e14b3c5898be6110fa8fd58d626dcc6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:51</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_1053599_tuannd_0.manager" name="x_1053599_tuannd_0.manager">294b3c586bbe6110cd8a8ee34163cf9b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:52</sys_created_on>
+        <sys_id>254b3c582dbe6110358e2e3a99335b88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>294b3c586bbe6110cd8a8ee34163cf9b</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_254b3c582dbe6110358e2e3a99335b88</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

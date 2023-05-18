@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Reject">294b3c58dbbe61108a9025e6e23f8e73</button>
+        <item_parameter display_value="Reject reason">694b3c58febe611067587919738e6d73</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:37</sys_created_on>
+        <sys_id>a14b3c5841be6110d4316c06ac7d9573</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>694b3c58febe611067587919738e6d73</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a14b3c5841be6110d4316c06ac7d9573</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:37</sys_updated_on>
+        <ui_parameter display_value="Reason for rejection">214b3c58cebe6110d05c8844a4e69c73</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

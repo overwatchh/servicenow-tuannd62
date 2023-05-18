@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="to_edit">ed4b3c5838be611046b0c397d1eeea8c</declarative_action_assignment>
+        <predicate display_value="Time Off Config - Recent EDIT">654b3c5861be6110570600cb7a98ca3d</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:51</sys_created_on>
+        <sys_id>254b3c582dbe6110789374e745f8f430</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_254b3c582dbe6110789374e745f8f430</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:51</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e54b3c58d7be611048c58e59eac67553" sys_domain="global" table="x_1053599_tuannd_0_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 03:56:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a14b3c58abbe61100822077974621f53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1053599_tuannd_0_request" name="x_1053599_tuannd_0_request" sys_domain="global" view="Default view">e54b3c58d7be611048c58e59eac67553</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1053599_tuannd_0_request" sys_domain="global" view="Default view">614b3c589bbe61104475cc5bad067453</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 03:56:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 03:56:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a94b3c5848be611071f82adfaafba553</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1053599_tuannd_0_request" name="x_1053599_tuannd_0_request" sys_domain="global" view="Default view">e54b3c58d7be611048c58e59eac67553</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1053599_tuannd_0_request" sys_domain="global" view="Default view">294b3c58cbbe6110fff70ca5485e2f53</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 03:56:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1053599_tuannd_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 03:56:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e54b3c58d7be611048c58e59eac67553</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1053599_tuannd_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e54b3c58d7be611048c58e59eac67553</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 03:56:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

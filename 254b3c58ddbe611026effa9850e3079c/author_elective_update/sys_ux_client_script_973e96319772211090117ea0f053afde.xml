@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="List - 3.0.0 preview.">133e96319772211090117ea0f053afdc</macroponent>
+        <name>list_1/listTitle</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+   let translatedListTitle = helpers.translateSync(api.context.props.listTitle);
+   return translatedListTitle;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-15 02:58:46</sys_created_on>
+        <sys_id>973e96319772211090117ea0f053afde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list_1/listTitle</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_ux_client_script_973e96319772211090117ea0f053afde</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-15 02:58:46</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</application>
+        <file_path/>
+        <instance_id>ce06ce65db933f4849eac597059619a2</instance_id>
+        <instance_name>dev91796</instance_name>
+        <name>sys_ux_client_script_973e96319772211090117ea0f053afde</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="List - 3.0.0 preview."&gt;133e96319772211090117ea0f053afdc&lt;/macroponent&gt;&lt;name&gt;list_1/listTitle&lt;/name&gt;&lt;preset/&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+   let translatedListTitle = helpers.translateSync(api.context.props.listTitle);
+   return translatedListTitle;
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-05-15 02:58:46&lt;/sys_created_on&gt;&lt;sys_id&gt;973e96319772211090117ea0f053afde&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;list_1/listTitle&lt;/sys_name&gt;&lt;sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0"&gt;254b3c58ddbe611026effa9850e3079c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TuanND62_Test"&gt;254b3c58ddbe611026effa9850e3079c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_973e96319772211090117ea0f053afde&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-05-15 02:58:46&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>301169767</payload_hash>
+        <record_name>list_1/listTitle</record_name>
+        <reverted_from/>
+        <source>2f6bb49887be6110e04665f73cbb3599</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-15 02:58:48</sys_created_on>
+        <sys_id>3f3ed6319772211090117ea0f053afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1881d58a3ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-15 02:58:48</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>f33ed631f57221107cef83012bc573a8</update_guid>
+        <update_guid_history>f33ed631f57221107cef83012bc573a8:301169767,973e1a31b072211097b8d8b66ba94b10:1117447341,9b3e96314072211059f2e43369ba5de0:-1739470805</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-15 02:58:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>0b4ce2dcd4694740866a9a930d481000</sys_id>
+        <sys_metadata>973e96319772211090117ea0f053afde</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list_1/listTitle</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_scope_delete display_value="">7240dff1395f4d7694e5863aa7997864</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_973e96319772211090117ea0f053afde</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_973e96319772211090117ea0f053afde">3f3ed6319772211090117ea0f053afa8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-15 02:58:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

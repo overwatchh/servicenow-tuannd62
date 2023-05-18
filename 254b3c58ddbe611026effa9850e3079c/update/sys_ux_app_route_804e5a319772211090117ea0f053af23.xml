@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests portal Config">254b3c58babe6110ba4d2e6d009fdd9b</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>List New Model Modal</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="List">133e96319772211090117ea0f053afdc</parent_macroponent>
+        <parent_macroponent_composition_element_id>modal_viewport_1</parent_macroponent_composition_element_id>
+        <route_type>new-model-modal</route_type>
+        <screen_type display_value="List New Model Modal">f73e1a319772211090117ea0f053afc2</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-15 02:58:49</sys_created_on>
+        <sys_id>804e5a319772211090117ea0f053af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List New Model Modal</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_ux_app_route_804e5a319772211090117ea0f053af23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-15 02:58:49</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=804e5a319772211090117ea0f053af23"/>
+</record_update>

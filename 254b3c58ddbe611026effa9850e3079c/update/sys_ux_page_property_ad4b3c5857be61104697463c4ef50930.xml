@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>notification_route</description>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="TuanND62_Test workspace">e54b3c581fbe611070be1f1a3934369b</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ad4b3c5857be61104697463c4ef50930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_ux_page_property_ad4b3c5857be61104697463c4ef50930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:33</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1053599_tuannd_0.e54b3c581fbe611070be1f1a3934369b.root.chrome_notification_uiRoute</unique_name>
+        <value>e14b3c58e9be61108a4412a2fb4fb194</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad4b3c5857be61104697463c4ef50930"/>
+</record_update>

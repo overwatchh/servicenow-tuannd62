@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="Jump Logged In User Profile">b4bafa0687103300a785940307cb0b3a</header_button>
+        <header_titles>a14b3c585ebe61106621d72095b18d72</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Time Off</name>
+        <required_roles>x_1053599_tuannd_0.employee,x_1053599_tuannd_0.admin,x_1053599_tuannd_0.manager</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:32</sys_created_on>
+        <sys_id>6d4b3c58ccbe61102653bbf06053a371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_6d4b3c58ccbe61102653bbf06053a371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:32</sys_updated_on>
+        <title>Time Off</title>
+    </sys_sg_applet_launcher>
+</record_update>

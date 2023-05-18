@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Reject reason</name>
+        <parent>e54b3c58f7be6110d1dac28c5ac84f70</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:56:07</sys_created_on>
+        <sys_id>694b3c58febe611067587919738e6d73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject reason</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_694b3c58febe611067587919738e6d73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:56:07</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

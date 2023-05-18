@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Dashboard Button">694b3c58b1be6110b1d0d57c400ee391</element>
+        <group/>
+        <role display_value="x_1053599_tuannd_0.manager" name="x_1053599_tuannd_0.manager">294b3c586bbe6110cd8a8ee34163cf9b</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 03:55:57</sys_created_on>
+        <sys_id>694b3c58afbe61102c332641ade30a32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_694b3c58afbe61102c332641ade30a32</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 03:55:57</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+</record_update>
