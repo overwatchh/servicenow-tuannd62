@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Tuannd 0 1684395552862</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1053599_tuannd_0_1684395552862</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 07:39:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>813b3a3e977ee11090117ea0f053af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tuannd 0 1684395552862</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_update_name>sys_app_module_813b3a3e977ee11090117ea0f053af4a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 07:39:14</sys_updated_on>
+        <timeline_page/>
+        <title>Tuannd 0 1684395552862</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</application>
+        <file_path/>
+        <instance_id>ce06ce65db933f4849eac597059619a2</instance_id>
+        <instance_name>dev91796</instance_name>
+        <name>sys_app_module_813b3a3e977ee11090117ea0f053af4a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Tuannd 0 1684395552862</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1053599_tuannd_0_1684395552862</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-18 07:39:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>813b3a3e977ee11090117ea0f053af4a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tuannd 0 1684395552862</sys_name><sys_overrides/><sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package><sys_policy/><sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope><sys_update_name>sys_app_module_813b3a3e977ee11090117ea0f053af4a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-18 07:39:14</sys_updated_on><timeline_page/><title>Tuannd 0 1684395552862</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1320667536</payload_hash>
+        <record_name>Tuannd 0 1684395552862</record_name>
+        <reverted_from/>
+        <source>3cd6bab6977ee11090117ea0f053af73</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 07:39:14</sys_created_on>
+        <sys_id>c13b3a3e977ee11090117ea0f053af4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1882dcc76530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 07:39:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c93b3a3e987ee1104341b2c28a083b4b</update_guid>
+        <update_guid_history>c93b3a3e987ee1104341b2c28a083b4b:1320667536</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tuannd 0 1684395552862">626bbe3e977ee11090117ea0f053afa0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 07:40:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>01379b9b2a664a808c77d152359b9000</sys_id>
+        <sys_metadata>813b3a3e977ee11090117ea0f053af4a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tuannd 0 1684395552862</sys_name>
+        <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
+        <sys_scope_delete display_value="">7240dff1395f4d7694e5863aa7997864</sys_scope_delete>
+        <sys_update_name>sys_app_module_813b3a3e977ee11090117ea0f053af4a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_813b3a3e977ee11090117ea0f053af4a">c13b3a3e977ee11090117ea0f053af4c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 07:40:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
