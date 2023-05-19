@@ -2372,13 +2372,13 @@
                     "type" : "TRANSLATION_LITERAL",
                     "value" : {
                       "code" : null,
-                      "message" : "Super VIP",
+                      "message" : "VIP",
                       "comment" : ""
                     }
                   },
                   "color" : {
                     "type" : "JSON_LITERAL",
-                    "value" : "critical"
+                    "value" : "positive"
                   }
                 }
               }, {
@@ -2403,7 +2403,7 @@
               "type" : "TRANSLATION_LITERAL",
               "value" : {
                 "code" : null,
-                "message" : "Tuannd62",
+                "message" : "Julie Lewis",
                 "comment" : ""
               }
             },
@@ -2440,13 +2440,9 @@
                     "type" : "TRANSLATION_LITERAL",
                     "value" : {
                       "code" : null,
-                      "message" : "Developer",
+                      "message" : "Network Administrator",
                       "comment" : ""
                     }
-                  },
-                  "clickable" : {
-                    "type" : "JSON_LITERAL",
-                    "value" : true
                   }
                 }
               }, {
@@ -2719,7 +2715,7 @@
       "value" : ""
     }
   },
-  "readEvaluationMode" : "EAGER"
+  "readEvaluationMode" : "EXPLICIT"
 }, {
   "definition" : {
     "id" : "6d4b3c5899be61104d4a0cada5eb5a77",
@@ -2737,7 +2733,7 @@
       }
     }
   },
-  "readEvaluationMode" : "EAGER"
+  "readEvaluationMode" : "EXPLICIT"
 }, {
   "definition" : {
     "id" : "e6af35d9dbb810106b3982c9689619e5",
@@ -2775,7 +2771,7 @@
       "value" : ""
     }
   },
-  "readEvaluationMode" : "EAGER"
+  "readEvaluationMode" : "EXPLICIT"
 }, {
   "definition" : {
     "id" : "294b3c588fbe61105e7afd66f6204378",
@@ -2793,7 +2789,7 @@
       }
     }
   },
-  "readEvaluationMode" : "EAGER"
+  "readEvaluationMode" : "EXPLICIT"
 } ]</data>
         <description/>
         <dispatched_events>a54b3c58dabe6110a69a4bd382ceb138,a54b3c58d5be6110d0c501d965bb643c,e14b3c587fbe6110c09631ca737ebc39</dispatched_events>
@@ -3038,16 +3034,19 @@
   "message" : "City",
   "comment" : ""
 }, {
-  "message" : "Developer",
-  "comment" : ""
-}, {
   "message" : "Email",
   "comment" : ""
 }, {
   "message" : "Escalated",
   "comment" : ""
 }, {
+  "message" : "Julie Lewis",
+  "comment" : ""
+}, {
   "message" : "Mobile Phone",
+  "comment" : ""
+}, {
+  "message" : "Network Administrator",
   "comment" : ""
 }, {
   "message" : "Recent requests",
@@ -3083,7 +3082,7 @@
   "message" : "Time off taken this year",
   "comment" : ""
 }, {
-  "message" : "Tuannd62",
+  "message" : "VIP",
   "comment" : ""
 }, {
   "message" : "You haven't requested any time off yet. Create a new paid time off request to get started.",
@@ -3147,7 +3146,7 @@
         <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
         <sys_update_name>sys_ux_macroponent_ad4b3c58f1be6110ced92724af8c294d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-19 02:32:42</sys_updated_on>
+        <sys_updated_on>2023-05-19 02:25:58</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=ad4b3c58f1be6110ced92724af8c294d"/>
 </record_update>
