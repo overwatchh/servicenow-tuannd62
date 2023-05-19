@@ -8,6 +8,7 @@
   "isConfiguration" : false,
   "offRowStorageId" : null,
   "sourceEventApiName" : "x_1053599_tuannd_0.NAV_ITEM_SELECTED_RELAY_ad4b3c58f1be6110ced92724af8c294d",
+  "sourceEventCorrelationId" : null,
   "sourceEventDefinition" : {
     "apiName" : "x_1053599_tuannd_0.NAV_ITEM_SELECTED_RELAY_ad4b3c58f1be6110ced92724af8c294d",
     "id" : null,
@@ -17,6 +18,7 @@
   "targets" : [ {
     "broker" : null,
     "clientScript" : null,
+    "conditional" : null,
     "declarativeAction" : null,
     "event" : {
       "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
@@ -90,6 +92,7 @@
   "isConfiguration" : false,
   "offRowStorageId" : null,
   "sourceEventApiName" : "x_1053599_tuannd_0.NAV_ITEM_SELECTED_RELAY_694b3c587cbe61104bc06b6daaa7db4d",
+  "sourceEventCorrelationId" : null,
   "sourceEventDefinition" : {
     "apiName" : "x_1053599_tuannd_0.NAV_ITEM_SELECTED_RELAY_694b3c587cbe61104bc06b6daaa7db4d",
     "id" : null,
@@ -99,6 +102,7 @@
   "targets" : [ {
     "broker" : null,
     "clientScript" : null,
+    "conditional" : null,
     "declarativeAction" : null,
     "event" : {
       "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
@@ -172,6 +176,7 @@
   "isConfiguration" : false,
   "offRowStorageId" : null,
   "sourceEventApiName" : "x_1053599_tuannd_0.NAV_ITEM_SELECTED_RELAY_a54b3c58e8be611070ca3d3646975c39",
+  "sourceEventCorrelationId" : null,
   "sourceEventDefinition" : {
     "apiName" : "x_1053599_tuannd_0.NAV_ITEM_SELECTED_RELAY_a54b3c58e8be611070ca3d3646975c39",
     "id" : null,
@@ -181,6 +186,7 @@
   "targets" : [ {
     "broker" : null,
     "clientScript" : null,
+    "conditional" : null,
     "declarativeAction" : null,
     "event" : {
       "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
@@ -252,19 +258,51 @@
 } ]</event_mappings>
         <macroponent display_value="design test">ad4b3c58f1be6110ced92724af8c294d</macroponent>
         <macroponent_config>{
-  "page" : "",
-  "refresh" : "",
-  "label" : "",
-  "bare" : true,
-  "scrollable" : "none",
-  "headerLevel" : "1",
-  "interceptNotifications" : false,
-  "propagateNotifications" : false
+  "page" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "refresh" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "none"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
 }</macroponent_config>
         <name>Home default</name>
         <order>0</order>
         <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
-        <required_translations>[]</required_translations>
+        <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition>page=home</screen_condition>
         <screen_type display_value="Landing">614b3c5841be6110637a570c1aec0646</screen_type>
@@ -274,7 +312,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ad4b3c58c4be6110ea215665ca50a563</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Home default</sys_name>
         <sys_overrides/>
         <sys_package display_value="TuanND62_Test" source="x_1053599_tuannd_0">254b3c58ddbe611026effa9850e3079c</sys_package>
@@ -282,7 +320,7 @@
         <sys_scope display_value="TuanND62_Test">254b3c58ddbe611026effa9850e3079c</sys_scope>
         <sys_update_name>sys_ux_screen_ad4b3c58c4be6110ea215665ca50a563</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-10 03:55:38</sys_updated_on>
+        <sys_updated_on>2023-05-19 02:25:59</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=ad4b3c58c4be6110ea215665ca50a563"/>
 </record_update>
